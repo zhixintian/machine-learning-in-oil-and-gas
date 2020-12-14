@@ -30,6 +30,27 @@ Python的优点很多，简单为大家列出几点。
 #### Python的安装
 
 两步走：
+
 1、anaconda（简单且自带多种包）的安装,进入[anaconda的官网](<https://www.anaconda.com/>),按顺序点击Get Start->Download->选择相应版本。
 
 2、pycharm的安装，在[JetBrains的官方网站](<https://www.jetbrains.com/>)上提供了PyCharm的[下载链接](<https://www.jetbrains.com/pycharm/download>)，其中社区版（Community）是免费的但功能相对弱小，专业版（Professional）功能非常强大，但需要按年或月付费使用，新用户可以试用30天时间。安装PyCharm只需要直接运行下载的安装程序，然后持续的点击“Next”（下一步）按钮就可以，安装完成后点击“Finish”（结束）按钮关闭安装向导，然后可以通过双击桌面的快捷方式来运行PyCharm。启动PyCharm之后会来到一个欢迎页，在欢迎页上我们可以选择“Create New Project”（创建新项目）、“Open”（打开已有项目）和“Get from Version Control”（从版本控制系统中检出项目）。我们可以在项目上点击鼠标右键，选择“New”，在选择“Python File”来创建Python代码文件
+
+#### 代码的注释
+
+注释是编程语言的一个重要组成部分，用于在源代码中解释代码的作用从而增强程序的可读性。当然，我们也可以将源代码中暂时不需要运行的代码段通过注释来去掉，这样当你需要重新使用这些代码的时候，去掉注释符号就可以了。简单的说，**注释会让代码更容易看懂但不会影响程序的执行结果**。
+
+Python中有两种形式的注释：
+
+1. 单行注释：以#和空格开头，可以注释掉从`#`开始后面一整行的内容。
+2. 多行注释：三个引号开头，三个引号结尾，通常用于添加多行说明性内容。
+
+```Python
+"""
+第一个Python程序 - hello, world
+
+Version: 0.1
+Author: 骆昊
+"""
+# print('hello, world')
+print("你好，世界！")
+```
