@@ -36,6 +36,7 @@ Python的优点很多，简单为大家列出几点。
 注意：检查安装是否成功的方法->首先，组合键Win键 + r，打开运行框，输入cmd，点击确定，打开命令提示行，输入 python，检查python是否安装成功，以及python版本；然后，输入conda info，检查环境变量是否配置成功。成功如下图所示；
 
 ![image1](https://github.com/zhixintian/machine-learning-in-oil-and-gas/blob/main/anaconda.jpg)
+
 ![image2](https://github.com/zhixintian/machine-learning-in-oil-and-gas/blob/main/huanjingbianliang.jpg)
 
 >**提示**：如果不显示图片，参考[链接](https://zhuanlan.zhihu.com/p/107196957)
