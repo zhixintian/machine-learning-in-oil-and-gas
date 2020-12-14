@@ -37,7 +37,7 @@ Python的优点很多，简单为大家列出几点。
 
 ![image1](https://github.com/zhixintian/machine-learning-in-oil-and-gas/blob/main/anaconda.jpg)
 
-![image2](https://github.com/zhixintian/machine-learning-in-oil-and-gas/blob/main/huanjingbianliang.jpg)
+![image2](https://github.com/zhixintian/machine-learning-in-oil-and-gas/blob/main/huanjingpeizhi.jpg)
 
 >**提示**：如果不显示图片，参考[链接](https://zhuanlan.zhihu.com/p/107196957)
 
