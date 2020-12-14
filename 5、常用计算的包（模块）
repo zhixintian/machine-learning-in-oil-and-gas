@@ -1,1 +1,6 @@
+### 常用模块
 
+常用于计算以及机器学习的模块有numpy,pandas,sklearn,tensorflow/keras,matplotlib/seaborn,scipy等等
+
+### numpy模块
+NumPy 是用于处理数组的python库
