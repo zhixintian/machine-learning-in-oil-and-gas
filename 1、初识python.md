@@ -10,6 +10,8 @@ Python是由荷兰人吉多·范罗苏姆（Guido von Rossum，后面都称呼�
 4. 2000年10月：Python 2.0发布，Python的整个开发过程更加透明，生态圈开始慢慢形成。
 5. 2008年12月：Python 3.0发布，引入了诸多现代编程语言的新特性，但并不完全兼容之前的Python代码。
 
+截至目前Python最新的版本为3.9.1
+
 > **说明**：大多数软件的版本号一般分为三段，形如A.B.C，其中A表示大版本号，当软件整体重写升级或出现不向后兼容的改变时，才会增加A；B表示功能更新，出现新功能时增加B；C表示小的改动（例如：修复了某个Bug），只要有修改就增加C。
 
 #### Python的优点
@@ -23,3 +25,10 @@ Python的优点很多，简单为大家列出几点。
 #### Python的应用领域
 
 目前Python在**Web服务器应用开发**、云基础设施开发、**网络数据采集**（爬虫）、**数据分析**、量化交易、**机器学习**、**深度学习**、**自动化测试**、**自动化运维**等领域都有用武之地。
+
+
+#### Python的安装
+
+两步走：
+1、anaconda（简单且自带多种包）的安装,进入[anaconda的官网](<https://www.anaconda.com/>),按顺序点击Get Start->Download->选择相应版本。
+2、pycharm的安装，在[JetBrains的官方网站](<https://www.jetbrains.com/>)上提供了PyCharm的[下载链接](<https://www.jetbrains.com/pycharm/download>)，其中社区版（Community）是免费的但功能相对弱小，专业版（Professional）功能非常强大，但需要按年或月付费使用，新用户可以试用30天时间。
