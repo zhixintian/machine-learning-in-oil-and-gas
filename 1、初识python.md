@@ -33,7 +33,7 @@ Python的优点很多，简单为大家列出几点。
 
 1、anaconda（简单且自带多种包）的安装,进入[anaconda的官网](<https://www.anaconda.com/>),按顺序点击Get Start->Download->选择相应版本。
 
-注意：检查安装是否成功的方法->首先，组合键Win键 + r，打开运行框，输入cmd，点击确定，打开命令提示行，输入 python，检查python是否安装成功，以及python版本；然后，输入conda info，检查环境变量是否配置成功。成功如下图所示；
+注意：检查安装是否成功的方法->首先，组合键Win键 + r，打开运行框，输入cmd，点击确定，打开命令提示行，输入 python，检查python是否安装成功，以及python版本；然后重新进入cmd运行窗口，输入conda info，检查环境变量是否配置成功。成功如下图所示；
 
 ![image1](https://github.com/zhixintian/machine-learning-in-oil-and-gas/blob/main/anaconda.jpg)
 
