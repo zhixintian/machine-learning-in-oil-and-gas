@@ -41,9 +41,9 @@
 
 - 3、字典（dict）：字典是Python语言中的映射类型，他是以{}括起来，里面的内容是以键值对的形式储存的：
 
-Key: 不可变（可哈希）的数据类型.并且键是唯一的，不重复的。
+     Key: 不可变（可哈希）的数据类型.并且键是唯一的，不重复的。
 
-Value:任意数据(int，str，bool，tuple，list，dict，set)等。
+     Value:任意数据(int，str，bool，tuple，list，dict，set)等。
 
 
 
